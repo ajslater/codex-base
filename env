@@ -1,0 +1,4 @@
+REPO=ajslater/codex-base
+IMAGE=ajslater/codex-base
+BASE_VERSION=3.8.5-alpine3.12_0.2.0-a88d3d9
+PKG_VERSION=0.1.0
