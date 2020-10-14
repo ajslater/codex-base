@@ -6,10 +6,10 @@ LABEL version=python-alpine${BASE_VERSION}_${PKG_VERSION}
 
 RUN echo "*** install codex system runtime packages ***" && \
  apk add --no-cache \
+   jpeg \
    libffi \
    libwebp \
    openssl \
    yaml \
-   jpeg \
-   zlib \
-   unrar
+   unrar \
+   zlib
