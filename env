@@ -1,4 +1,0 @@
-REPO=ajslater/codex-base
-IMAGE=ajslater/codex-base
-BASE_VERSION=python3.9.0-alpine3.12_0.3.1-cc7bb20
-PKG_VERSION=0.2.0
